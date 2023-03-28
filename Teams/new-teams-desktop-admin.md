@@ -30,7 +30,7 @@ ms.localizationpriority: high
 
 ## Before you begin
 
-This article describes the preview release of tthe new Microsoft Teams desktop client for Windows. **No changes have been made in how the service works, and the backend remains the same.** There's no new mobile app (iOS or Android). This preview release doesn't have the complete feature set of classic Teams.
+This article describes the preview release of the new Microsoft Teams desktop client for Windows. **No changes have been made in how the service works, and the backend remains the same.** There's no new mobile app (iOS or Android). This preview release doesn't have the complete feature set of classic Teams.
 
 - [What is new Teams?](#what-is-the-new-teams)
 - [Prerequisites](#prerequisites)
